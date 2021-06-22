@@ -1,1 +1,2 @@
 javascript: !function(){"use strict";for(var e=document.querySelectorAll(".sf-dump-compact"),c=0;c<e.length;c++)e[c].className="sf-dump-expanded"}();
+// Credit: https://laracasts.com/discuss/channels/general-discussion/expanding-dd-vardumper-by-default
